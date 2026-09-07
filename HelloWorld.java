@@ -3,7 +3,6 @@ package javaProgramsWithGit;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World and local change");
+		System.out.println("Hello World and local/server change");
 	}
-
 }
